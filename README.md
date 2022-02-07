@@ -2,7 +2,7 @@
 
 ### Hello, Visitor! 👋
 
-I'm Ivan, a professional software developer since 2014, and I'm not sure how to write proper clever funny bios so I'm just gonna stick with the basic: 
+I'm Ivan, a brazilian professional software developer since 2014, currently located in Lisbon(🇵🇹) and I'm not sure how to write proper clever funny bios so I'm just gonna stick with the basic: 
 
 - 🔭 I’m currently working with: Java; Spring; Relational Databases (mostly Postgres); Application servers (JBoss EAP, Tomcat); Cloud (Azure);
 Most used programming languages: Java, JavaScript & Python.
