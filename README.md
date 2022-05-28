@@ -1,10 +1,10 @@
-## I love deadlines. I like the whooshing sound they make as they fly by.💨
+## I love deadlines. I like the whooshing sound they make as they fly by. 💨
 
 ### Hello, Visitor! 👋
 
 I'm Ivan, Brazilian, graduated in computer engineering since 2017, professional software developer since 2014, currently located in Lisbon(🇵🇹) and I'm not sure how to write proper clever funny bios so I'm just gonna stick with the basic: 
 
-- 🔭 I’m currently working with: Java; Spring; Relational Databases (mostly Postgres); Application servers (JBoss EAP, Tomcat); a little bit Cloud (Azure);
+- 🔭 I’m currently working with: Java; Spring; Relational Databases (mostly Postgres); Application servers (JBoss EAP, Tomcat); a little bit of Cloud (Azure);
 
 - 📈 Most used programming languages: Java, JavaScript & Python.
 
