@@ -10,6 +10,7 @@ I'm Ivan, Brazilian, graduated in computer engineering since 2017, professional 
 
 - 🌱 I’m currently learning: 
   * Go
+  * WASM
   * Rust fundamentals  
   * Blockchain networks paradigms & protocols (trying to figure if the whole web3 hype is real);
 
