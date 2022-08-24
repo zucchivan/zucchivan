@@ -4,7 +4,7 @@
 
 I'm Ivan, Brazilian, graduated in computer engineering since 2017, professional software developer since 2014, currently located in Lisbon(🇵🇹) and I'm not sure how to write proper clever funny bios so I'm just gonna stick with the basic: 
 
-- 🔭 Currently working with: Java; Spring; Relational Databases (mostly Postgres); Application servers (JBoss EAP, Tomcat); a little bit of Cloud (Azure);
+- 🔭 Currently working with: Java; Spring; Relational Databases (mostly MySQL); Cloud infrastructure (a ton of AWS services); a little bit of Angular;
 
 - 📈 Most used programming languages: Java, JavaScript & Python.
 
