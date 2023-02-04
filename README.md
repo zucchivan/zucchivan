@@ -2,16 +2,20 @@
 
 ### Hello, Visitor! 👋
 
-I'm Ivan, Brazilian, graduated in computer engineering since 2017, professional software developer since 2014, currently located in Lisbon(🇵🇹) and I'm not sure how to write proper clever funny bios so I'm just gonna stick with the basic: 
+I'm Ivan, a Brazilian software engineer and team lead who is currently living in sunny Lisbon(🇵🇹). 
 
-- 🔭 Currently working with: Java; Spring; Relational Databases (mostly MySQL); Cloud infrastructure (a ton of AWS services); a little bit of Angular;
+I had my first steps in programming by 2011, started coding professionally in 2014 and got my computer engineering degree by 2017. 
+
+I'm not really sure how to write proper clever funny bios so I'm just gonna stick with the basic: 
+
+- 🔭 Currently working with: Java; Spring; Relational Databases (mostly MySQL); Cloud infrastructure (a ton of AWS services, some OpenShift); a little bit of React here and there;
 
 - 📈 Most used programming languages: Java, JavaScript & Python.
 
 - 🌱 Currently learning: 
   * Go
   * Getting the hang of WASM
-  * Some blockchain networks paradigms & protocols (trying to figure if the whole web3 hype is real);
+  * Trying to figure quantum-safe cryptography
 
 - 📫 How to reach me: For professional reasons, preferably on [LinkedIn](https://www.linkedin.com/in/zucchivan/). For other purposes you can reach me out on Telegram (same user);
 
