@@ -8,9 +8,9 @@ I had my first steps in programming by 2011, started coding professionally in 20
 
 I'm not really sure how to write proper clever funny bios so I'm just gonna stick with the basic: 
 
-- 🔭 Currently working with: Java; Spring; Relational Databases (mostly MySQL); Cloud infrastructure (a ton of AWS services, some OpenShift); a little bit of React here and there;
+- 🔭 Currently working with: Java; Spring; Relational Databases (mostly MySQL); Cloud infrastructure (a ton of AWS services, some on-premise OpenShift); a little bit of React here and there;
 
-- 📈 Most used programming languages: Java, JavaScript & Python.
+- 📈 Most used programming languages: Java (by a lot), JavaScript & Python.
 
 - 🌱 Currently learning: 
   * Go
