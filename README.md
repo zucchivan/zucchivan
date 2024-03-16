@@ -1,4 +1,4 @@
-## I love deadlines. I like the whooshing sound they make as they fly by. 💨
+## A _seasoned_ developer _(usually with some garlic and smoked paprika)_. 🍲
 
 ### Hello, Visitor! 👋
 
