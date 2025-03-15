@@ -8,7 +8,7 @@ I had my first steps in programming by 2011, started coding professionally in 20
 
 I'm not really sure how to write proper clever funny bios so I'm just gonna stick with the basic: 
 
-- 🔭 Mainly working with: Kotlin; Spring; Relational Databases (mostly Postgres); Cloud infrastructure (AWS);
+- 🔭 Mainly working with: Java; Spring; Relational DBs; RedHat Openshift infrastructure;
 
 - 📈 Most used programming languages: Java (by a lot), JavaScript & Python.
 
