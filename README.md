@@ -10,7 +10,7 @@ I'm not really sure how to write proper clever funny bios so I'm just gonna stic
 
 - 🔭 Mainly working with: Java; Spring; Relational DBs; RedHat Openshift infrastructure;
 
-- 📈 Most used programming languages: Java (by a lot), JavaScript & Python.
+- 📈 Most used programming languages: Java (by a lot), Kotlin, JavaScript & Python.
 
 - 🌱 Currently learning: 
   * Getting the hang of WASM
