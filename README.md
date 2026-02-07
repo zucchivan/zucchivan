@@ -15,6 +15,7 @@ I'm not really sure how to write proper clever funny bios so I'm just gonna stic
 - 🌱 Currently learning: 
   * Getting the hang of WASM
   * GraalVM & Memory Safeness with JVM languages
+  * Agents, agents, agents
 
 - 📫 How to reach me: For professional reasons, preferably on [LinkedIn](https://www.linkedin.com/in/zucchivan/). For other purposes you can reach me out on Telegram (same username);
 
